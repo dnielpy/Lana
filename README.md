@@ -1,6 +1,6 @@
-# Claro — Minimal Task Management App
+# Lana — Minimal Task Management App
 
-**Claro** is a minimalist task management app designed for clarity, focus, and simplicity. With a clean interface and no unnecessary distractions, **Claro** helps you stay organized and focused on what matters most.
+**Lana** is a minimalist task management app designed for clarity, focus, and simplicity. With a clean interface and no unnecessary distractions, **Lana** helps you stay organized and focused on what matters most.
 
 ## Features
 
@@ -18,7 +18,7 @@
 
 ## Philosophy
 
-Less is more. **Claro** isn’t trying to replace your calendar, your notes, or your brain. It’s just here to help you focus on what needs to get done today.
+Less is more. **Lana** isn’t trying to replace your calendar, your notes, or your brain. It’s just here to help you focus on what needs to get done today.
 
 ## Status
 
@@ -26,4 +26,4 @@ This app is currently in active development. Contributions, ideas, and feedback 
 
 ---
 
-Stay focused. Stay Claro.
+Stay focused. Stay Lana.
