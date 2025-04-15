@@ -1,6 +1,7 @@
 import { FC } from "react";
 import InputText from "../input/InputText";
 import Button from "../button/Button";
+import PrioritySelector from "../selector/PrioritySelector";
 
 
 type TaskCreatorProps = {
@@ -27,9 +28,13 @@ const TaskCreator: FC<TaskCreatorProps> = ({
                 </div>
 
             </div>
-            <div>
-                <Button text="Cancel" url="" variant="SECONDARY"></Button>
-                <Button text="Save Task" url="" variant="PRIMARY"></Button>
+            <div className="flex gap-7 flex-wrap items-center justify-center">
+                <PrioritySelector></PrioritySelector>
+                <div className="flex gap-6">
+                    <Button text="Cancel" url="" variant="SECONDARY"></Button>
+                    <Button text="Save Task" url="" variant="PRIMARY"></Button>
+                </div>
+
             </div>
         </div>
     )
