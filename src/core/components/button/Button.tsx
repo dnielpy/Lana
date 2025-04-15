@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { ButtonType } from "../../sections/home/server/types/dynamic";
+import { ButtonType } from "../../../sections/home/server/types/dynamic";
 
 type ButtonProps = {
     text: string,
